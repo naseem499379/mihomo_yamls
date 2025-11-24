@@ -8,6 +8,6 @@
 
 | 文件名 (Filename) | 大小 (Size) | 在线查看 (Link) |
 | :--- | :--- | :--- |
-| **clash-all-fallback-smart.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/liandu2024/clash-all-fallback-smart.yaml) |
-| **clash-all-smart.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/liandu2024/clash-all-smart.yaml) |
-| **clash-fallback-smart-std.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/liandu2024/clash-fallback-smart-std.yaml) |
+| **clash-all-fallback-smart.yaml** | 19.9 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/liandu2024/clash-all-fallback-smart.yaml) |
+| **clash-all-smart.yaml** | 16.7 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/liandu2024/clash-all-smart.yaml) |
+| **clash-fallback-smart-std.yaml** | 19.4 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/liandu2024/clash-fallback-smart-std.yaml) |

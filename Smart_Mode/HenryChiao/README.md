@@ -8,6 +8,6 @@
 
 | 文件名 (Filename) | 大小 (Size) | 在线查看 (Link) |
 | :--- | :--- | :--- |
-| **MihomoSmartAIO.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartAIO.yaml) |
-| **MihomoSmartProMax.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProMax.yaml) |
+| **MihomoSmartAIO.yaml** | 32.5 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartAIO.yaml) |
+| **MihomoSmartProMax.yaml** | 25.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProMax.yaml) |
 | **MihomoSmartProPlus.yaml** | 26.1 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProPlus.yaml) |

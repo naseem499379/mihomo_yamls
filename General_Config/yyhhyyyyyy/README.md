@@ -8,5 +8,5 @@
 
 | 文件名 (Filename) | 大小 (Size) | 在线查看 (Link) |
 | :--- | :--- | :--- |
-| **mihomo_multi.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_multi.yaml) |
-| **mihomo_single.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_single.yaml) |
+| **mihomo_multi.yaml** | 18.1 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_multi.yaml) |
+| **mihomo_single.yaml** | 17.8 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_single.yaml) |
