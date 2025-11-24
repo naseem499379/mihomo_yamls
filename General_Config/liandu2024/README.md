@@ -8,8 +8,8 @@
 
 | 文件名 (Filename) | 大小 (Size) | 在线查看 (Link) |
 | :--- | :--- | :--- |
-| **clash-all-fallback.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-all-fallback.yaml) |
-| **clash-fallback-all.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback-all.yaml) |
-| **clash-fallback-dialer.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback-dialer.yaml) |
-| **clash-fallback-std.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback-std.yaml) |
-| **clash-fallback.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback.yaml) |
+| **clash-all-fallback.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-all-fallback.yaml) |
+| **clash-fallback-all.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback-all.yaml) |
+| **clash-fallback-dialer.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback-dialer.yaml) |
+| **clash-fallback-std.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback-std.yaml) |
+| **clash-fallback.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/liandu2024/clash-fallback.yaml) |

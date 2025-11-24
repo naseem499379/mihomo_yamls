@@ -8,4 +8,4 @@
 
 | 文件名 (Filename) | 大小 (Size) | 在线查看 (Link) |
 | :--- | :--- | :--- |
-| **Clash_Sample.yaml** | 14 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) |
+| **Clash_Sample.yaml** | 12.5 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) |

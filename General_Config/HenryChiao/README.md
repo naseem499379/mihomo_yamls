@@ -10,4 +10,4 @@
 | :--- | :--- | :--- |
 | **MihomoAIO.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoAIO.yaml) |
 | **MihomoProMax.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProMax.yaml) |
-| **MihomoProPlus.yaml** | 53.6 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProPlus.yaml) |
+| **MihomoProPlus.yaml** | 0 B | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProPlus.yaml) |
