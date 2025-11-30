@@ -8,4 +8,4 @@
 
 | 文件名 (Filename) | 大小 (Size) | 在线查看 (Link) |
 | :--- | :--- | :--- |
-| **config.yaml** | 19.8 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
+| **config.yaml** | 19.9 KB | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
